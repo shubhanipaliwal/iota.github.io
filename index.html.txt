@@ -3,6 +3,6 @@
 <title>
 Hi
 </title>
-<body>Hi
+<body>
 </body>
 </html>
